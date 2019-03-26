@@ -11,3 +11,13 @@
 
 // Import partials here
 
+.nav-item {
+  a:hover {
+    text-decoration: underline;
+  }
+}
+
+.jumbotron {
+  background: #ffffff url("/media/pirate-ship.jpg") no-repeat right top;
+  background-size: cover;
+}
